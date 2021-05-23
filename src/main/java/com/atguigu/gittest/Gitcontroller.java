@@ -8,4 +8,8 @@ package com.atguigu.gittest;
  * @Version 1
  **/
 public class Gitcontroller {
+
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
